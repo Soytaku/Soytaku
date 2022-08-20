@@ -1,5 +1,7 @@
+<div align="center"><h3> Bienvenid@! nwn </h3>
+
 <P align="center">
-[ Bot_Simple_Multi-Dispositivo ]
+[ Soy_Taku ]
 </p>
 
 ## Si encuentras algún error ó necesitas más información, por favor contactame :D
