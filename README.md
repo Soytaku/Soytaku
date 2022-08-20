@@ -1,4 +1,4 @@
-<div align="center"><h3> Bienvenid@! nwn </h3>
+<div align="center"><h3> Bienvenid@! </h3>
 
 <P align="center">
 [ Soy_Taku ]
